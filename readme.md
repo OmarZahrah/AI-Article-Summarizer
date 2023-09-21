@@ -1,7 +1,4 @@
 <div align="center">
-
-<p align="center"><img src="./screenShots/Fast-React-Pizza.png" alt="welcome page"></p>
-
 </div>
 
 ## Description

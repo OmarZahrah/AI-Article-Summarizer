@@ -24,7 +24,7 @@
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/OmarZahrah/AI-ArticleSummarizer.git
+git clone https://github.com/OmarZahrah/AI-Article-Summarizer.git
 ```
 
 <p>2. Install the required dependencies </p>
